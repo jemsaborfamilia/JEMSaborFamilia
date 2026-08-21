@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "nome": "Coxinha de Costela",
+    "descricao": "195g • Massa artesanal de batata • Cream Cheese",
+    "preco": 14.00,
+    "categoria": "Coxinhas",
+    "imagem": "assets/images/products/costela.jpeg"
+  },
+  {
+    "id": 2,
+    "nome": "Coxinha de Frango",
+    "descricao": "195g • Massa artesanal de batata • Catupiry Original",
+    "preco": 10.00,
+    "categoria": "Coxinhas",
+    "imagem": "assets/images/products/frango.jpeg"
+  },
+  {
+    "id": 3,
+    "nome": "Coxinha de Costela",
+    "descricao": "150g • Massa artesanal de batata • Cream Cheese",
+    "preco": 10.00,
+    "categoria": "Coxinhas",
+    "imagem": "assets/images/products/coxinha.jpeg"
+  },
+   {
+    "id": 4,
+    "nome": "Coxinha de Frango",
+    "descricao": "150g • Massa artesanal de batata • Catupiry Original",
+    "preco": 8.00,
+    "categoria": "Coxinhas",
+    "imagem": "assets/images/products/coxinha.jpeg"
+  },
+   {
+    "id": 5,
+    "nome": "Risole de Presunto e Queijo",
+    "descricao": "150g • Massa artesanal de batata",
+    "preco": 8.00,
+    "categoria": "Coxinhas",
+    "imagem": "assets/images/products/risole.jpeg"
+  },
+    {
+    "id": 6,
+    "nome": "Risole de Calabresa",
+    "descricao": "150g • Massa artesanal de batata",
+    "preco": 8.00,
+    "categoria": "Coxinhas",
+    "imagem": "assets/images/products/risole.jpeg"
+  },
+  {
+    "id": 7,
+    "nome": "Enrolado de Salsicha",
+    "descricao": "190g • Massa artesanal de batata",
+    "preco": 7.50,
+    "categoria": "Coxinhas",
+    "imagem": "assets/images/products/salsicha.jpeg"
+  },
+    {
+    "id": 8,
+    "nome": "BRASA CHEDDAR",
+    "descricao": "Pão, Hamburguer Artesanal 165g, Costela Desfiada ao Molho Barbecue, Maionese, Cebola Caramelizada e MUUUITO CHEDDAR Cremoso. ",
+    "preco": 30.00,
+    "categoria": "Lanches",
+    "imagem": "assets/images/products/cheddar.jpg"
+  },
+      {
+    "id": 16,
+    "nome": "BACON IMPERIAL",
+    "descricao": "Pão, Hamburguer Artesanal 165g, queijo, Maionese, Katchup, Alface, Tomate e MUUUITO BACON.",
+    "preco": 30.00,
+    "categoria": "Lanches",
+    "imagem": "assets/images/products/bacon.jpg"
+  },
+      {
+    "id": 17,
+    "nome": "HOTDOG Paulista Especial Duplo",
+    "descricao": "Pão, Duas Salsichas, Purê de Batata, Vinagrete, Milho, Maionese, Katchup, Bacon, Cheddar e Catupiry Original.",
+    "preco": 25.00,
+    "categoria": "Lanches",
+    "imagem": "assets/images/products/hotdog1.jpg"
+  },
+        {
+    "id": 18,
+    "nome": "HOTDOG Paulista Tradicional Duplo",
+    "descricao": "Pão, Duas Salsichas, Purê de Batata, Vinagrete, Milho, Maionese, Katchup.",
+    "preco": 20.00,
+    "categoria": "Lanches",
+    "imagem": "assets/images/products/hotdog2.jpg"
+  },
+        {
+    "id": 19,
+    "nome": "HOTDOG Costela SUPREMA",
+    "descricao": "Pão, Duas Salsichas, Maionese, Vinagrete, Costela desfiada ao molho barbecue, cream cheese e mussarela.",
+    "preco": 25.00,
+    "categoria": "Lanches",
+    "imagem": "assets/images/products/hotdog3.jpg"
+  },
+  {
+    "id": 20,
+    "nome": "Coxinha de Brigadeiro Gourmet com Morango",
+    "descricao": "Coxinha Gourmet de Brigadeiro com Morango (Fruta).",
+    "preco": 15.00,
+    "categoria": "Brigadeiros",
+    "imagem": "assets/images/products/morango1.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Brigadeiro Gourmet Kit",
+    "descricao": "Caixa com 4 unidades Sortidos Premium",
+    "preco": 16.00,
+    "categoria": "Brigadeiros",
+    "imagem": "assets/images/products/caixabrigadeiro.jpeg"
+  },
+  {
+    "id": 11,
+    "nome": "Porção de Batata Frita com Cheddar, Bacon e Calabresa",
+    "descricao": "700g • Porção de Batata Frita com Cheddar, Bacon e Calabresa",
+    "preco": 50.00,
+    "categoria": "porcoes",
+    "imagem": "assets/images/products/porcao2.jpeg"
+  },
+  {
+    "id": 12,
+    "nome": "Porção de Batata Frita com Cheddar e Bacon",
+    "descricao": "600g • Porção de Batata Frita com Cheddar, Bacon e Calabresa",
+    "preco": 40.00,
+    "categoria": "porcoes",
+    "imagem": "assets/images/products/porcao3.jpeg"
+  },
+  {
+    "id": 13,
+    "nome": "Porção de Batata Frita",
+    "descricao": "500g • Porção de Batata Frita",
+    "preco": 26.00,
+    "categoria": "porcoes",
+    "imagem": "assets/images/products/porcao6.jpeg"
+  },
+    {
+    "id": 14,
+    "nome": "Porção de Batata Frita",
+    "descricao": "250g • Porção de Batata Frita",
+    "preco": 16.00,
+    "categoria": "porcoes",
+    "imagem": "assets/images/products/porcao6.jpeg"
+  },
+   {
+    "id": 15,
+    "nome": "Brigadeiro Gourmet 1 Unidade",
+    "descricao": "• Ferreiro Rocher • Tradicional • Chocolate Branco • Ninho com Nutella • Beijinho • Dois Amores",
+    "preco": 5.00,
+    "categoria": "Brigadeiros",
+    "imagem": "assets/images/products/brigadeiros.jpeg"
+  }
+]

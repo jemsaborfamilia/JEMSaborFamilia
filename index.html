@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>JEM Sabor Família</title>
+    <meta name="description" content="Delivery oficial da JEM Sabor Família">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/mobile.css">
+
+    <link rel="manifest" href="manifest.json">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Cabeçalho -->
+    <header class="header">
+
+<div class="logo">
+
+    <span class="logo-icon">🍔</span>
+
+    <span>JEM Sabor Família</span>
+
+    <span class="logo-icon">🍫</span>
+</div>
+
+    </header>
+
+    <!-- Banner -->
+
+ <section class="banner">
+
+    <div class="banner-slider">
+
+        <div class="slide active">
+            <img src="assets/images/banner1.jpeg">
+        </div>
+
+        <div class="slide">
+            <img src="assets/images/banner3.jpeg">
+        </div>
+
+    </div>
+
+    <div class="dots">
+        <span class="dot active"></span>
+        <span class="dot"></span>
+    </div>
+
+</section>
+
+        <div class="banner-overlay">
+
+            <h1>Lanches Artesanais • Coxinhas Artesanais • Brigadeiros Gourmet • Porções</h1>
+
+        </div>
+
+    </section>
+
+    <!-- Pesquisa -->
+<section class="search-area">
+
+    <div class="search-box">
+
+        🔍
+
+        <input
+            type="text"
+            id="search"
+            placeholder="O que você deseja hoje?"
+        >
+
+    </div>
+
+</section>
+
+    <!-- Categorias -->
+
+    <section class="categories">
+
+<button class="category active" data-category="Combos">
+<span>💥</span>
+<p>Combos Promocionais</p>
+</button>
+
+<button class="category" data-category="Coxinhas">
+<span>🥟</span>
+<p>Salgados Artesanais</p>
+</button>
+
+<button class="category" data-category="Lanches">
+<span>🍔</span>
+<p>Lanches Artesanais</p>
+</button>
+
+<button class="category" data-category="porcoes">
+<span>🍟</span>
+<p>Porções</p>
+</button>
+
+<button class="category" data-category="Brigadeiros">
+<span>🍫</span>
+<p>Doces Gourmets</p>
+</button>
+
+<button class="category" data-category="Bebidas">
+<span>🥤</span>
+<p>Bebidas</p>
+</button>
+
+
+</section>
+
+    <!-- Produtos -->
+
+    <main class="products" id="products">
+
+        <!-- Os produtos serão adicionados via JavaScript -->
+
+    </main>
+
+    <!-- Rodapé -->
+
+    <footer>
+
+        <p>
+
+            © 2026 JEM Sabor Família
+
+        </p>
+
+    </footer>
+
+    <script src="assets/js/products.js"></script>
+    <script src="assets/js/ui.js"></script>
+    <script src="assets/js/app.js"></script>
+<nav class="bottom-nav">
+
+    <button class="nav-item active">
+        🏠
+        <span>© 2026 JEM Sabor Família</span>
+    </button>
+
+
+</nav>
+<div class="cart-overlay" id="cart-overlay"></div>
+
+<div class="cart-sidebar" id="cart-sidebar">
+<div id="cart-items" class="cart-items"></div>
+
+    <div class="cart-header">
+
+        <h2>🛒 Meu Pedido</h2>
+
+        <button onclick="fecharCarrinho()" class="close-btn">✖</button>
+
+    </div>
+
+    <div id="cart-items" class="cart-items">
+        Nenhum produto ainda.
+    </div>
+
+    <div class="cart-footer">
+
+        <div class="cart-total">
+            Total: <span id="cart-total">R$ 0,00</span>
+        </div>
+
+        <button class="checkout-btn">
+            Finalizar Pedido
+        </button>
+
+    </div>
+
+</div>
+</body>
+</html>
